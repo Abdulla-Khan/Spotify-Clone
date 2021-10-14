@@ -3,3 +3,5 @@
 This repository is based on converting this mockup into a flutter app.
 
 ![app](assets/images/thumbnail.png?raw=true)
+
+!Cloned the UI using Flutter and Dart.
